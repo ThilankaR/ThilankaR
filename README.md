@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ThilankaR
-- 👀 I’m interested in cloud and security
-- 🌱 I’m currently learning cloud
+- 🌱 Securing Data Highways: Linux, Cloud, Networking, and Systems Engineering
 
 <!---
 ThilankaR/ThilankaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
